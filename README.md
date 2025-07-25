@@ -2,6 +2,11 @@
 
 Un piano virtual controlado por gestos de manos que utiliza visión por computadora para detectar el movimiento de los dedos y reproducir notas musicales en tiempo real.
 
+## 🎵 Descarga de Archivos de Audio
+# ⚠️ IMPORTANTE: Antes de usar la aplicación, descarga los archivos de audio necesarios desde Google Drive:
+🔗 [Descargar Sonidos del Piano](https://drive.google.com/drive/folders/1zBSMzdrkD_rJwaov8iV__2zumcP99_-C?usp=sharing)
+Descarga todos los archivos WAV de la carpeta y colócalos en el directorio raíz de tu proyecto.
+
 ## 📋 Descripción
 
 Este proyecto implementa un piano virtual que se controla mediante el movimiento de los dedos detectados por una cámara web. Utiliza MediaPipe para el reconocimiento de manos y OpenCV para el procesamiento de video, permitiendo tocar diferentes notas musicales simplemente moviendo los dedos hacia abajo.

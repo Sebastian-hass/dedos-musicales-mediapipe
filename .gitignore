@@ -1,5 +1,5 @@
 __pycache__/
 *.pyc
-*.wav
 # Ignorar entorno virtual
 venv/
+*.pdf
